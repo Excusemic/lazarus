@@ -28,6 +28,7 @@
     </div>
 </div>
     <div class="containerHeader">
+        <div class="container">
         <header class="d-flex flex-wrap justify-content-center">
             <a href="/" class="d-flex align-items-center mb-3 mb-md-0 me-md-auto text-dark text-decoration-none">
                 <img src="assets/images/logo_top_nav.png" class="" alt="Lazarus Logo">
@@ -39,6 +40,8 @@
                 <li class="nav-item"><a href="#contact" class="nav-link">CONTACT</a></li>
             </ul>
         </header>
+        </div>
+
     </div>
 
 
