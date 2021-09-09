@@ -42,7 +42,7 @@
     </div>
 
 
-            <video muted loop disablepictureinpicture controlslist="nodownload">
+            <video muted loop disablepictureinpicture playsinline controlslist="nodownload">
                 <source src="assets/videos/desktop-mp4.mp4" type="video/mp4">
                 <source src="assets/videos/desktop-webm.webm" type="video/webm">
                 <div class="position-relative overflow-hidden video-section">      </div>
