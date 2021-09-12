@@ -176,7 +176,9 @@ footer .footer-icons {
   padding-inline-start: 0;
   margin-top: 72px;
 }
-
+footer .footer-icons img {
+  width: 40px;
+}
 footer .footer-links li {
   margin-bottom: 26px;
 }
@@ -193,7 +195,7 @@ footer .footer-links a {
 }
 
 footer .footer-logo {
-  max-width: 100%;
+  max-width: 220px;
 }
 
 .about {
@@ -220,6 +222,7 @@ h1.testimonial {
 
 .about-image {
   max-width: 100%;
+  max-height: 500px;
 }
 
 a.large-blue-link {

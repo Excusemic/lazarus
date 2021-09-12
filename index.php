@@ -31,7 +31,7 @@
         <div class="container">
         <header class="d-flex flex-wrap justify-content-center">
             <a href="/" class="d-flex align-items-center mb-3 mb-md-0 me-md-auto text-dark text-decoration-none">
-                <img src="assets/images/logo_top_nav.png" class="" alt="Lazarus Logo">
+                <img src="assets/images/logo_top_nav.svg" class="" alt="Lazarus Logo" style="width: 140px"/>
             </a>
 
             <ul class="nav nav-pills">
@@ -93,7 +93,7 @@
     <div class="container youtube-video">
         <h2 class="text-center">VIDEO</h2>
         <iframe width="1296" height="729" src="https://www.youtube.com/embed/ivruiR2DNVE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-        <p class="note">*Video contains nimations made for Qube 3D Studio</p>
+        <p class="note">*Video contains animations made for Qube 3D Studio</p>
     </div>
 
     <div id="about" class="container about">
@@ -107,7 +107,7 @@
                 <p><strong>Client list:</strong></p>
                 <p>Jelen Pivo / Milka /Red Bull / European Blood Alliance / Europris / Hypo Alpe Adria Bank / 365Scores / Doncafe / Telenor / International Corrections and Penitentiary Association / People’s Bank of Serbia</p>
             </div>
-            <div class="col-lg-6 text-end">
+            <div class="col-lg-6 text-end" style="display: flex; align-items: center; justify-content: center">
                 <img src="assets/images/profile-image.png" class="about-image" alt="Jovan Lazarevic">
             </div>
         </div>
@@ -139,20 +139,20 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-6 col-12">
-                    <img src="assets/images/footer_logo.png" class="footer-logo" alt="Lazarus Logo">
+                    <img src="assets/images/footer-logo.svg" class="footer-logo" alt="Lazarus Logo">
                 </div>
-                <div class="col-lg-4 col-8">
+                <div class="col-lg-4 col-8" style="padding-left: 1.55rem">
                     <ul class="footer-links">
                         <li class="footer-link-item"><a href="#portfolio" class="footer-link">PORTFOLIO</a></li>
                         <li class="footer-link-item"><a href="#about" class="footer-link">ABOUT</a></li>
                         <li class="footer-link-item"><a href="#contact" class="footer-link">CONTACT</a></li>
                     </ul>
                 </div>
-                <div class="col-lg-2 col-4 text-end">
+                <div class="col-lg-2 col-4 text-end" >
                     <ul class="footer-icons">
-                        <li class="footer-icon-item"><a href="https://www.upwork.com/fl/jovanlazarevic88?viewMode=1" class="footer-icon-a" target="_blank"><img src="assets/images/icon_upwork.png" class="footer-icon" alt="Upwork"></a></li>
-                        <li class="footer-icon-item"><a href="https://www.linkedin.com/in/jovan-lazarevic-06798964/" class="footer-icon-a" target="_blank"><img src="assets/images/icon_linkedin.png" class="footer-icon" alt="Linkedin"></a></li>
-                        <li class="footer-icon-item"><a href="https://www.behance.net/JovanL" class="footer-icon-a" target="_blank"><img src="assets/images/icon_behance.png" class="footer-icon" alt="Behance"></a></li>
+                        <li class="footer-icon-item"><a href="https://www.upwork.com/fl/jovanlazarevic88?viewMode=1" class="footer-icon-a" target="_blank"><img src="assets/images/icon_upwork.svg" class="footer-icon" alt="Upwork"></a></li>
+                        <li class="footer-icon-item"><a href="https://www.linkedin.com/in/jovan-lazarevic-06798964/" class="footer-icon-a" target="_blank"><img src="assets/images/icon_linkedin.svg" class="footer-icon" alt="Linkedin"></a></li>
+                        <li class="footer-icon-item"><a href="https://www.behance.net/JovanL" class="footer-icon-a" target="_blank"><img src="assets/images/icon_behance.svg" class="footer-icon" alt="Behance"></a></li>
                     </ul>
                 </div>
             </div>
